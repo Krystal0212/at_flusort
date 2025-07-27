@@ -1,16 +1,18 @@
-<div align="center" gap="xs">
-  <img width="96" height="96" alt="image" src="https://github.com/user-attachments/assets/8bdfdc75-ff13-4341-ab9a-d5eb3f057122" />
-  <h1>at_flusort</h1>
-</div>
+  <p>
+    <h1 style="font-size: 2em; font-weight: bold; vertical-align: middle; line-height: normal; display: inline-block;">
+      <a href="#"><img width="32" height="32" alt="at_logo" src="https://github.com/user-attachments/assets/0ac236a4-5ce5-46d4-9211-e818aad498cb" /></a>
+      &nbsp;at_flusort
+    </h1>
+  </p>
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/pub/v/at_flusort" alt="Pub Version" />
   <img src="https://img.shields.io/badge/platform-Dart%20%26%20Flutter-blue" alt="Platform" />
   <img src="https://img.shields.io/github/license/Krystal0212/at_flusort" alt="License" />
   <img src="https://img.shields.io/github/stars/Krystal0212/at_flusort?style=social" alt="GitHub Stars" />
 </p>
 
-<p align="center">
+<p>
   A lightweight and extensible sorting algorithm package for Dart and Flutter — designed for learning, teaching, and practical usage.
 </p>
 
