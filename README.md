@@ -3,11 +3,11 @@
     <img 
       src="https://github.com/user-attachments/assets/ec004769-3ba2-4afc-bfa1-556ae30d1fa2" 
       alt="icon" 
-      width="32" 
-      height="32" 
+      width="24" 
+      height="24" 
       style="vertical-align: middle; pointer-events: none;" 
     />
-    <span style="font-size: 28px; font-weight: bold; vertical-align: middle;">at_flusort</span>
+    <h1>at_flusort</h1>
   </p>
 
   <p>
