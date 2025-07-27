@@ -1,4 +1,13 @@
-# <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/ec004769-3ba2-4afc-bfa1-556ae30d1fa2" /> at_flusort
+<h1>
+  <img 
+    src="https://github.com/user-attachments/assets/ec004769-3ba2-4afc-bfa1-556ae30d1fa2" 
+    alt="icon" 
+    width="32" 
+    height="32" 
+    style="pointer-events: none; vertical-align: middle;" 
+  /> 
+  at_flusort
+</h1>
 
 A lightweight and extensible sorting algorithm package for Dart and Flutter — designed for learning, teaching, and practical usage.
 
