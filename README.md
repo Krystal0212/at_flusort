@@ -1,6 +1,7 @@
-<h1 align="center">
-  at_flusort
-</h1>
+<div align="center" gap="xs">
+  <img width="96" height="96" alt="image" src="https://github.com/user-attachments/assets/8bdfdc75-ff13-4341-ab9a-d5eb3f057122" />
+  <h1>at_flusort</h1>
+</div>
 
 <p align="center">
   <img src="https://img.shields.io/pub/v/at_flusort" alt="Pub Version" />
