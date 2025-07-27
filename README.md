@@ -1,12 +1,12 @@
-<p align="center">
+<p>
   <img 
     src="https://github.com/user-attachments/assets/ec004769-3ba2-4afc-bfa1-556ae30d1fa2" 
     alt="icon" 
-    width="32" 
-    height="32" 
+    width="16" 
+    height="16" 
     style="pointer-events: none;" 
   />
-  <strong style="font-size: 28px;">at_flusort</strong>
+  <h1 style="font-size: 28px;">at_flusort</h1>
 </p>
 
   <p>
