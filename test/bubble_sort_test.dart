@@ -1,4 +1,4 @@
-import 'package:at_flusort/algorithms/bubble_sort.dart';
+import 'package:at_flusort/at_flusort.dart';
 import 'package:flutter_test/flutter_test.dart';
 
 void main() {

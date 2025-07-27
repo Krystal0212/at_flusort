@@ -1,6 +1,6 @@
 name: at_flusort
-description: "A flexible sorting algorithm package for Flutter and Dart."
-version: 0.0.1
+description: "A supporting package providing sorting algorithms for usages in Flutter."
+version: 0.0.2
 homepage: https://github.com/Krystal0212/at_flusort
 
 environment:
