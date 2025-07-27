@@ -7,7 +7,10 @@ class BucketSort extends Sorter<double> {
     final int n = list.length;
     if (n <= 0) return list;
 
-    final List<List<double>> buckets = List<List<double>>.generate(n, (int _) => <double>[]);
+    final List<List<double>> buckets = List<List<double>>.generate(
+      n,
+      (int _) => <double>[],
+    );
     for (final double value in list) {
       final int idx = (value * n).toInt();
       buckets[idx == n ? n - 1 : idx].add(value);
