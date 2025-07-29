@@ -39,16 +39,13 @@
 
 Add the package to your `pubspec.yaml`:
 
-
 ```yaml
 dependencies:
   at_flusort: ^1.0.0
-
-```md
-
+```
 ## 🔧 Example: Quick Sort
-
 ```dart
+
 import 'package:at_flusort/sorts/quick_sort.dart';
 
 void main() {
@@ -56,3 +53,4 @@ void main() {
   final List<int> sorted = QuickSort.sort(numbers);
   print(sorted); // [1, 3, 5, 7, 9]
 }
+```
